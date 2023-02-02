@@ -6,7 +6,7 @@ This book provides a comprehensive guide to building chatbots using Dialogflow, 
 
 I have created Chatbot for online food delivery for a particular restaurant named FoodFromOnlineBot using Dialogflow.
 
-You can download this book by just clicking codes -> download zip
+You can download this book by just clicking code which is in green box -> download zip
 
 Click hear to intract with my Bot: https://bot.dialogflow.com/b7f0c754-3fd9-4496-90ba-fe357e2ecbf9
 
