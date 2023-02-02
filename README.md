@@ -10,4 +10,4 @@ You can download this book by just clicking code which is in green box -> downlo
 
 Click hear to intract with my Bot: https://bot.dialogflow.com/b7f0c754-3fd9-4496-90ba-fe357e2ecbf9
 
-LinkedIn : 
+LinkedIn : https://www.linkedin.com/feed/update/urn:li:activity:7026803988033355776/
